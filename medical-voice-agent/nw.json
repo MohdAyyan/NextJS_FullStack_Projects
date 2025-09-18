@@ -1,0 +1,22 @@
+```json
+[
+  {
+    "id": 1,
+    "specialist": "General Physician",
+    "relevance": "High",
+    "reason": "Headaches are a common symptom addressed by general physicians."
+  },
+  {
+    "id": 4,
+    "specialist": "Psychologist",
+    "relevance": "Medium",
+    "reason": "Headaches can sometimes be related to stress or psychological factors."
+  },
+    {
+    "id": 7,
+    "specialist": "ENT Specialist",
+    "relevance": "Low",
+    "reason": "Headaches can sometimes be related to sinus issues or other ENT problems."
+  }
+]
+```
